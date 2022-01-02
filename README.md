@@ -16,8 +16,9 @@ Visit this link:
 
 ## Usage
 ![screencapture-notes-on-notes-heroku-herokuapp-2022-01-02-14_52_23](https://user-images.githubusercontent.com/87036647/147887771-f833e4d7-6e89-4f6f-9086-deba42b35e6d.png)
-![screencapture-notes-on-notes-heroku-herokuapp-notes-2022-01-02-14_52_42](https://user-images.githubusercontent.com/87036647/147887775-e35f9147-184c-410f-997f-350ae910f![screencapture-notes-on-notes-heroku-herokuapp-notes-2022-01-02-14_53_27](https://user-images.githubusercontent.com/87036647/147887777-ae74955a-a02d-477a-b7ad-3fa0eac6e502.png)
-797.png)
+![screencapture-notes-on-notes-heroku-herokuapp-notes-2022-01-02-14_52_42](https://user-images.githubusercontent.com/87036647/147887786-3869d12d-dde6-46dd-bf1a-00e563074d4a.png)
+![screencapture-notes-on-notes-heroku-herokuapp-notes-2022-01-02-14_53_27](https://user-images.githubusercontent.com/87036647/147887788-6d6fddf8-41d3-448e-8874-92617533bafc.png)
+
 
 ## License
 This project is covered under the GNU_AGPLv3 license.
